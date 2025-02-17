@@ -1,0 +1,1 @@
+ALERT: ARP Spoofing detected! IP: 192.168.0.112, MAC: 20:0b:74:6b:0d:5b
